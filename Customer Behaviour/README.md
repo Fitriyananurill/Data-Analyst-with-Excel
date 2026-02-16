@@ -1,6 +1,6 @@
 # Customer Behaviour Analysis – Excel Dashboard Project
 
-![Dashboard Preview](Dashboard%20Image.jpg)
+![Dashboard Preview](Dashboard%20Image.png)
 
 1️⃣ Project Background
 
