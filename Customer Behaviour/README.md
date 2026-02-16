@@ -1,5 +1,7 @@
 # Customer Behaviour Analysis – Excel Dashboard Project
 
+![Dashboard Preview](Dashboard%20Image.jpg)
+
 1️⃣ Project Background
 
 This project analyzes customer transaction data to understand purchasing behavior, revenue distribution, and demographic contribution. The objective is to transform raw transactional data into actionable business insights using Microsoft Excel. This analysis simulates a real-world retail business scenario where management needs data-driven recommendations to improve revenue and customer strategy.
